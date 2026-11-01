@@ -189,9 +189,7 @@ Exploring Python programming as a foundation for security scripting and automati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakthipriya-05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=38BDF8&text_color=FFFFFF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthipriya-05&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=A855F7&text_color=FFFFFF" width="40%"/>
 
 <br><br>
 
